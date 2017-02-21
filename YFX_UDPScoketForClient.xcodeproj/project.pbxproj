@@ -217,7 +217,7 @@
 				TargetAttributes = {
 					6A64955E1E2493980021590D = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 654YYRTASK;
+						DevelopmentTeam = 6R8UQ2XA7K;
 						ProvisioningStyle = Automatic;
 					};
 					6A6495771E2493990021590D = {
@@ -439,10 +439,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 654YYRTASK;
+				DEVELOPMENT_TEAM = 6R8UQ2XA7K;
 				INFOPLIST_FILE = YFX_UDPScoketForClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "fangxue.YFX-UDPScoketForClient";
+				PRODUCT_BUNDLE_IDENTIFIER = yangfangxue;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -451,10 +451,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 654YYRTASK;
+				DEVELOPMENT_TEAM = 6R8UQ2XA7K;
 				INFOPLIST_FILE = YFX_UDPScoketForClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "fangxue.YFX-UDPScoketForClient";
+				PRODUCT_BUNDLE_IDENTIFIER = yangfangxue;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -528,6 +528,7 @@
 				6A64958E1E2493990021590D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6A64958F1E2493990021590D /* Build configuration list for PBXNativeTarget "YFX_UDPScoketForClientTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +537,7 @@
 				6A6495911E2493990021590D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6A6495921E2493990021590D /* Build configuration list for PBXNativeTarget "YFX_UDPScoketForClientUITests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +546,7 @@
 				6A6495941E2493990021590D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
